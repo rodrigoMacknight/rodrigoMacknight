@@ -1,8 +1,10 @@
 ### Welcome to my GitHub!
 
- 💲 Backend Engineer at PicPay  
- 📍 Based in São Carlos - São Paulo  
- 🎮 Hobbyist Game Developer @ http://mkjuegos.com/
+  💲 Backend Engineer at PicPay  
+  📍 Based in São Carlos - São Paulo  
+  🎮 Hobbyist Game Developer @ http://mkjuegos.com/
+   
+ <img src="https://static-wp-eqi15-prd.euqueroinvestir.com/wp-content/uploads/2019/12/picpay-logo-1-e1577071801612-745x370.png" height="200" width="400">
 
 <div>
   <a href="https://github.com/rodrigoMacknight">
