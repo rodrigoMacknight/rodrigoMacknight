@@ -6,12 +6,7 @@
    
  <img src="https://static-wp-eqi15-prd.euqueroinvestir.com/wp-content/uploads/2019/12/picpay-logo-1-e1577071801612-745x370.png" height="200" width="400">
 
-<div>
-  <a href="https://github.com/rodrigoMacknight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoMacknight&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoMacknight&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+
  ##
   
   <div style="display: inline_block">
