@@ -1,6 +1,6 @@
 ### Welcome to my GitHub!
 
-  💲 Backend Engineer at Pay  
+  💲 Backend Engineer at PicPay  
   📍 Based in São Carlos - São Paulo  
   🎮 Hobbyist Game Developer @ http://mkjuegos.com/
    
