@@ -1,13 +1,12 @@
 ### Welcome to my GitHub!
 
-  💲 Backend Engineer at PicPay  
+  💲 Backend Engineer
   📍 Based in São Carlos - São Paulo  
   🎮 Hobbyist Game Developer @ http://mkjuegos.com/
    
 
 
  ##
-  <img src="https://www.kindpng.com/picc/m/406-4069708_picpay-logo-hd-png-download.png" alt="Picpay Logo, HD Png Download@kindpng.com">
   <div style="display: inline_block">
      <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
      <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
